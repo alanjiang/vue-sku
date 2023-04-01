@@ -1,10 +1,27 @@
 #  SKU（商品最小单元）Element UI 设计
 
-
+ 
 
  作者 微信号: comeon_betty 
 
 网上有SKU算法的文章，抄袭的较多， 算法较复杂。 本文从简的角度利用数学归纳演绎法推导出SKU算法的规律。
+
+
+
+# 本项目演示(How to run this project?)
+
+
+
+```
+git clone https://github.com/alanjiang/vue-sku.git
+cd vue-sku
+npm install 
+npm run dev 
+```
+
+本项目源码稍加改造即可产品化。
+
+The project can be made to product with little  adjust. 
 
 
 
